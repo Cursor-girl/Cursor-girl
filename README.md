@@ -1,9 +1,12 @@
+```python
+from datetime import datetime
 
 about_me = {
 
     "Currently": "Building applications in Cursor 💻",
 
-    "Life": "Creating experiences while working towards the person I want to become.",
+    "Life": "Creating experiences while working towards
+             the person I want to become.",
 
     "Personality": [
         "Special, but in a cute way",
@@ -79,3 +82,4 @@ def life():
 
 if __name__ == "__main__":
     print(life())
+```
