@@ -31,4 +31,21 @@ about_me = {
 
     "Weekend_Mode": "Late starts, later endings 🌙",
 
-   
+    "Current_Goal": "Kaizen ♻️",
+
+    "Answer": "Romanticise the process 🪄"
+}
+
+
+def life():
+    """
+    Living across cultures and countries.
+    Creating things, collecting memories,
+    and figuring it all out along the way.
+    """
+    pass
+
+
+if __name__ == "__main__":
+    life()
+```
