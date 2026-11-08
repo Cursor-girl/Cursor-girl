@@ -1,3 +1,4 @@
+```python
 about_me = {
 
     "Currently": "Building little things in Cursor 💻",
@@ -48,3 +49,4 @@ def life():
 
 if __name__ == "__main__":
     life()
+```
