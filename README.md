@@ -1,52 +1,34 @@
 ```python
 about_me = {
 
-    "Currently": "Building little things in Cursor 💻",
+    "Currently": "Experimenting in Cursor and Claude 👩🏻‍💻",
 
     "Hobbies": [
-        "Reformer Pilates 🎀",
+        "Reformer Pilates 🩰",
         "Gym 🏋🏻‍♀️",
         "Podcasts 🎧",
-        "Vibe Coding ✨"
+        "Hiking & Birdwatching 🦜"
     ],
 
     "Currently_Into": sorted([
         "AI 🤖",
-        "Religion & Philosophy 🕊️",
-        "History 🏛️",
-        "Vinted 🛍️",
-        "Plants 🪴",
-        "Painting 🎨"
+        "Matcha Coconut 🍵",
+        "Vinted 🧥",
+        "Orchids 🪴",
+        "Candle making 🕯️"
     ]),
 
-    "Life_Motto": "Creating experiences while becoming the person I want to be.",
+    "Life_Motto": "Make it happen. ⚡",
 
     "Personality": [
-        "A little different",
-        "Cute & kind",
-        "Curious by nature",
-        "Always evolving"
+        "Special mix ✨",
+        "Cute & kind 🎀",
+        "Curious AF 🔍",
+        "Always learning 🌱"
     ],
 
-    "Lifestyle": "A little bit of everywhere 🌍",
+    "Lifestyle": "Mix of naps, hustling and random activities 🌿",
 
     "Weekend_Mode": "Late starts, later endings 🌙",
 
-    "Current_Goal": "Build, explore, experience, repeat.",
-
-    "Answer": "Romanticise the process ♡"
-}
-
-
-def life():
-    """
-    Living across cultures and countries.
-    Creating things, collecting experiences,
-    and figuring it all out along the way.
-    """
-    pass
-
-
-if __name__ == "__main__":
-    life()
-```
+   
