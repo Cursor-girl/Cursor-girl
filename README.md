@@ -1,7 +1,7 @@
 ```python
 about_me = {
 
-    "Currently": "Experimenting in different LLMs 👩🏻‍💻",
+    "Currently": "Experimenting with different LLMs 👩🏻‍💻",
 
     "Hobbies": [
         "Reformer Pilates 🩰",
