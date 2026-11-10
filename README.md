@@ -1,7 +1,7 @@
 ```python
 about_me = {
 
-    "Currently": "Experimenting in Cursor and Claude 👩🏻‍💻",
+    "Currently": "Experimenting in different LLMs 👩🏻‍💻",
 
     "Hobbies": [
         "Reformer Pilates 🩰",
@@ -11,7 +11,7 @@ about_me = {
     ],
 
     "Currently_Into": sorted([
-        "AI 🤖",
+        "Crispy Duck 🦆",
         "Matcha Coconut 🍵",
         "Vinted 🧥",
         "Orchids 🪴",
